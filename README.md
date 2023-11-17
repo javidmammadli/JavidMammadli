@@ -1,5 +1,4 @@
 [![MasterHead](https://img.freepik.com/free-photo/business-data-analysis_53876-95296.jpg?w=1380&t=st=1700209568~exp=1700210168~hmac=2debb8bb93773f2ef3d490001f2882d574f6fbe36ce096111cfcd358a4af2dc5)
-
 <h1 align="center">HEY , I'm Javid Mammadli</h1>
 <h3 align="center">Data Analyst</h3>
 
