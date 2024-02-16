@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Javid Mammadli</h1>
 <h3 align="center">Data Analyst</h3>
 
-- 🔭 I’m currently Unemployed
+- 🔭 I’m currently Looking for ***Opportunites***.
 
 - 📫 How to reach me **jvdmammadli@gmail.com**
 
